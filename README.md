@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 微信小程序-茶叶商城
 
 <div align=center><img align="center" src="https://i.loli.net/2020/12/25/skO8EJM3GhuYt6Z.jpg" width="250px"/></div>
@@ -144,3 +145,6 @@ git clone https://github.com/Voyzz/Fruit-store-mp
 
 ### 云函数
 ![云函数](https://i.loli.net/2020/10/20/Yz5lBJvCkobPwS3.jpg)
+=======
+# TeaMark_Mall
+>>>>>>> 1495a4e6fd6eae667c730a97fdd8be2a09003d26

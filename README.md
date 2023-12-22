@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # 微信小程序-茶叶商城
 
-<div align=center><img align="center" src="https://i.loli.net/2020/12/25/skO8EJM3GhuYt6Z.jpg" width="250px"/></div>
-
 [![](https://img.shields.io/badge/我的微信--informational?style=social&logo=wechat)](https://i.loli.net/2020/09/19/jHmZskwtUTF9oOh.png)
 [![](https://img.shields.io/badge/Github--informational?style=social&logo=github)](https://github.com/Voyzz)
 [![](https://img.shields.io/badge/我的邮箱--informational?style=social&logo=gmail)](voyzshen@gmail.com)
@@ -145,6 +143,4 @@ git clone https://github.com/Voyzz/Fruit-store-mp
 
 ### 云函数
 ![云函数](https://i.loli.net/2020/10/20/Yz5lBJvCkobPwS3.jpg)
-=======
-# TeaMark_Mall
->>>>>>> 1495a4e6fd6eae667c730a97fdd8be2a09003d26
+

@@ -1,0 +1,33 @@
+<view class="main">
+
+    <view class="form-box">
+        <form bindsubmit="formSubmit">
+            <input value="{{address.name}}" name="name" placeholder="姓名"/>
+            <input type="digit" name="phone" value="{{address.phone}}" placeholder="电话号码"/>
+            
+
+            <view class="weui-cell__bd cell-title">选择省份:</view>
+            <view class="weui-cell__ft">
+              <picker range="{{province_Arr}}" value="{{address.provinceName}}" name='provinceName'  bindchange="getProvince">
+                {{province_Arr[address.provinceName]||'选择'}}
+              </picker>
+            </view>
+
+
+
+            <view>详细地址：</view>
+            <view class='message'>
+              <textarea name="addressItem" value="{{address.addressItem}}"></textarea>
+            </view>
+
+
+
+            <view>备注：</view>
+            <view class='message'>
+              <textarea name="message" value="{{address.message}}"></textarea>
+            </view>
+            <button form-type="submit">保存</button>
+        </form>
+    </view>
+
+</view>

@@ -1,0 +1,80 @@
+{
+  "miniprogramRoot": "miniprogram/",
+  "cloudfunctionRoot": "cloudfunctions/",
+  "Setting": {
+    "urlCheck": true,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true,
+    "nodeModules": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "appid": "wxcaf1ed226c0fd8f4",
+  "projectname": "TeaMark_Mall",
+  "libVersion": "3.0.2",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "db guide",
+          "pathName": "pages/databaseGuide/databaseGuide",
+          "query": ""
+        },
+        {
+          "name": "后台添加",
+          "pathName": "pages/bgInfo/bgInfo",
+          "query": ""
+        },
+        {
+          "name": "后台",
+          "pathName": "pages/bgInfo/bgInfo",
+          "query": ""
+        },
+        {
+          "name": "me",
+          "pathName": "pages/me/me",
+          "query": ""
+        },
+        {
+          "name": "address",
+          "pathName": "pages/address/address",
+          "query": ""
+        },
+        {
+          "name": "order",
+          "pathName": "pages/orders/orders",
+          "query": ""
+        },
+        {
+          "name": "订单管理",
+          "pathName": "pages/bgManage/bgManage",
+          "query": ""
+        }
+      ]
+    }
+  },
+  "compileType": "miniprogram",
+  "srcMiniprogramRoot": "miniprogram/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  },
+  "setting": {
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  }
+}

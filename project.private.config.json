@@ -1,0 +1,61 @@
+{
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "projectname": "TeaMark_Mall",
+  "Setting": {
+    "compileHotReLoad": true
+  },
+  "libVersion": "3.0.2",
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "bgInfo",
+          "pathName": "pages/bgInfo/bgInfo",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "db guide",
+          "pathName": "pages/databaseGuide/databaseGuide",
+          "query": ""
+        },
+        {
+          "name": "后台添加",
+          "pathName": "pages/bgInfo/bgInfo",
+          "query": ""
+        },
+        {
+          "name": "pay",
+          "pathName": "pages/pay/pay",
+          "query": ""
+        },
+        {
+          "name": "后台",
+          "pathName": "pages/bgInfo/bgInfo",
+          "query": ""
+        },
+        {
+          "name": "me",
+          "pathName": "pages/me/me",
+          "query": ""
+        },
+        {
+          "name": "address",
+          "pathName": "pages/address/address",
+          "query": ""
+        },
+        {
+          "name": "order",
+          "pathName": "pages/orders/orders",
+          "query": ""
+        },
+        {
+          "name": "订单管理",
+          "pathName": "pages/bgManage/bgManage",
+          "query": ""
+        }
+      ]
+    }
+  }
+}
